@@ -1,6 +1,6 @@
 # Helm plugin for file://
 
-This plugin will add support for local repositories to helm.
+This plugin adds basic support for local repositories to helm.
 
 Example:
 ```
